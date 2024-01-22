@@ -10,7 +10,7 @@ Voice Controlled Wireless Home Automation is Internet / Bluetooth / Wi-Fi is a p
 The system is an intelligent home connected to the internet, allowing the user to access the home securely and remotely control the temperature, lighting, and household appliances. The internet of things is the most critical technology for making a smart home. It can connect and control everything to access remotely anytime and anywhere using the internet. IoT (Internet of Things) is the environment in which physics interact, enabling computer communication from user to the machine and machine-to-machine communication, which extends to things. IoT devices can exchange content based on controlling activism in a specific way. The advantage of IoT networks is that data can be separated and created by naming, filtering, manipulating, and extracting data. Authorities forecast that by the end of the year, by 2020, about 50 billion devices will have an Internet connection. The system is designed to be easy to carry, install, configure, operate and maintain by a non-technical person. Illustration of IoT is shown in Figure 01.
 <br>
 <br>
-<img src="Document/Images/01 Illustration of IoT.png" width="700" >
+<img src="Document /Images/01 Illustration of IoT.png" width="700" >
 ###### Figure 01: Illustration of IoT
 <br>
 <br>
